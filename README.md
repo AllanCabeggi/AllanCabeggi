@@ -1,7 +1,7 @@
-### Olá!👋Meu nome é Allan Cabeggi. 
+### Olá!Meu nome é Allan. 
 
-- 🔭 Em busca de um emprego.
-- 🌱 Estou atualmente cursando Análise e Desenvolvimento de Sistemas.
+-  Em busca de um emprego.
+-  Estou atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 <picture>
   <source
