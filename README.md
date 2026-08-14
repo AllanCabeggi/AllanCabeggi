@@ -1,6 +1,5 @@
-### Olá!Meu nome é Allan. 
+### Olá! Meu nome é Allan. 
 
--  Em busca de um emprego.
 -  Estou atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 <picture>
